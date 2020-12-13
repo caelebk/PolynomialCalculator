@@ -1,4 +1,4 @@
-# Polynomial Calculator
+# CPSC-210 Polynomial Calculator
 
 ## by Caeleb Koharjo
 
